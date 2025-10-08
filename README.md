@@ -2,17 +2,17 @@
 
 This repository contains the project developed for the Ethos Hackathon. The entire project is built using Jupyter Notebooks.
 
-## 📝 Table of Contents
+##  Table of Contents
 - [About the Project](#-about-the-project)
-- [🚀 Getting Started](#-getting-started)
+- [Getting Started](#-getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#-usage)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
+- [Contributing](#-contributing)
+- [License](#-license)
 - [Acknowledgments](#-acknowledgments)
 
-## 📖 About the Project
+##  About the Project
 
 ### The Problem
 This project was developed for the Saptang Labs Machine Learning Challenge, which addresses a critical limitation in modern Large Language Models (LLMs): their struggle with structured, multi-step logical reasoning. While LLMs can generate fluent text, they often fail to decompose complex problems, leading to unreliable answers. The challenge was to design and build an Agentic AI system that could not only solve logic puzzles but also provide transparent, human-readable reasoning for its conclusions.
@@ -36,7 +36,7 @@ The Reasoning Engine: Recognizing the difficulty of fully automating high-qualit
 This project successfully demonstrates a complete workflow for building a hybrid reasoning system. The final output is a final_submission.csv file that fulfills all requirements of the challenge, showcasing both a powerful predictive model and a clear methodology for generating high-quality reasoning traces.
 This project utilizes data analysis and machine learning techniques within Jupyter Notebooks to address the hackathon's theme.
 
-## 🚀 Getting Started
+##  Getting Started
 
 To get a local copy up and running, follow these simple steps.
 
@@ -47,7 +47,6 @@ You need to have Python and Jupyter Notebook installed on your system. You can i
 ```sh
 pip install numpy pandas scikit-learn matplotlib seaborn jupyter
 ```
-*(Feel free to add or remove libraries based on your project's dependencies.)*
 
 ### Installation
 
@@ -60,7 +59,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn jupyter
    cd ethos-hackathon
    ```
 
-## 💻 Usage
+##  Usage
 
 1. Start the Jupyter Notebook server:
    ```sh
@@ -70,7 +69,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn jupyter
 
 *(Provide more specific instructions on how to run your notebooks if necessary.)*
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -82,13 +81,12 @@ If you have a suggestion that would make this better, please fork the repo and c
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-*(If you don't have a LICENSE file, you might want to add one. The MIT License is a popular choice.)*
 
-## 🎉 Acknowledgments
+##  Acknowledgments
 
 *   Ethos Hackathon Organizers
 *   Any third-party libraries or resources used
