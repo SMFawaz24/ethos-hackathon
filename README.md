@@ -67,7 +67,6 @@ pip install numpy pandas scikit-learn matplotlib seaborn jupyter
    ```
 2. Open the main notebook file (`.ipynb`) from the Jupyter interface in your browser to see the code, analysis, and results.
 
-*(Provide more specific instructions on how to run your notebooks if necessary.)*
 
 ##  Contributing
 
