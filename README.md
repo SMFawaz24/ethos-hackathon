@@ -88,5 +88,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ##  Acknowledgments
 
 *   Ethos Hackathon Organizers
-*   Any third-party libraries or resources used
-*   README template inspiration
+*   IIT Guwahati
